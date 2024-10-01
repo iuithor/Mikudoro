@@ -1,2 +1,2 @@
 # Mikudoro
-Miku Pomodoro
+Simple pomodoro timer with JS for a friend. :D
